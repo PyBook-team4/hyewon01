@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "점프 투 파이썬",
+        "author": "박응용",
+        "publisher": "이지스퍼블리싱",
+        "genre": "IT/개발",
+        "isbn": "9788968482025",
+        "rating": 4.8,
+        "total_stock": 3,
+        "available_stock": 2,
+        "reg_date": "2026-10-01"
+    }
+]
